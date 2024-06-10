@@ -91,18 +91,18 @@ _Note: Add more rows as needed._
 This section should be filled out at the end of the Sprint and submitted.
 
 1. Put your GitHub link for your demonstration software here: 
-
+https://github.com/zachmills2023/AppliedProgrammingSprints/tree/07aab554540940d9535fd3377f5e412fe3b0dca7/sprint2
 2. Put your YouTube link for your code walkthrough and demo video here:
-
+https://youtu.be/1UCWS_S_Fks
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |   Yes  |
+|Did you complete all the unique requirements for the module?|   Yes  |
+|Did you write at least 100 lines of code?                   |   Yes  |
+|Did you fully complete the readme.md file?                  |   Yes  |
+|Did you put the readme.md file in GitHub in the top folder? |   Yes  |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
@@ -112,6 +112,8 @@ This section should be filled out at the end of the Sprint and submitted.
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|     7:10          |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
+I think I still need to manage my time better. This time making time for my wife and friends and also giving myself time to relax is what got in the way unfortunately. I need to find time for all my family, friends and self and have scheduled time to do work as well. 
