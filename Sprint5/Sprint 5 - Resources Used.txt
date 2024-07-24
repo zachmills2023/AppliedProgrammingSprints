@@ -1,0 +1,17 @@
+Sprint 5 Resources used:
+
+
+Fixing import blur:
+https://www.youtube.com/watch?v=HuOj-vVPYyE&t=21s
+
+Programming Stream of Someone Learning to use Godot with C#:
+https://www.youtube.com/watch?v=pRT1opdig_U&t=157s
+
+Setup and Basics / Using Godot with Visual Studio:
+https://www.youtube.com/watch?v=b2JciU37E9o
+
+Movement / Using the built in input mapping with C#:
+https://www.youtube.com/watch?v=iBLJ89ZwXys
+
+Getting the score to work:
+https://www.youtube.com/watch?v=UcOacSsCWMA
